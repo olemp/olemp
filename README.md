@@ -1,5 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working with TypeScript, React and NodeJS
+- Really into [React hooks](https://reactjs.org/docs/hooks-intro.html)
 - 🌱 I’m currently learning **everything**
 - 💬 Ask me about **anything**
 
